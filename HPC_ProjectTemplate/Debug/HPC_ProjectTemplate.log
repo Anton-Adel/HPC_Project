@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\fcis\FCIS\HPC\project\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(128,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\fcis\FCIS\HPC\project\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(155,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\fcis\FCIS\HPC\project\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(178,59): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> D:\fcis\FCIS\HPC\project\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
